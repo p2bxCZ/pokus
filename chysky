@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="cs-cz">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=windows-1250"/>
+    <meta name="viewport" content="width=device-width, maximum-scale=1.0, user-scalable=no">
+    <meta name=”description” content=”Železářství Chyský Rakovník”>
+    <link rel="shortcut icon" href="images/favicon.ico" type="/x-icon"> <!--ikona záložky-->
+    <link rel="stylesheet" href="css/style.css" type="text/css" />
+    <meta name="keywords" content="Chyský Rakovník, železářství, domácí potřeby, kontakt" />
+    <meta name="robots" content="index,follow"/>
+    <meta name="author" content="p2bx@seznam.cz" />
+    <title>Chyský Rakovník</title>
+  </head>
+  <body>
+    <H1 style="color:blue;"> Železářství Chyský Rakovník </h1>
+    <h2 style="color:red;"> Stránka ve výstavbě </h2> <!-- je zalomeni radku <br /> -->
+    <p style="color:orange;">Provozní doba</p>
+    <p>Pondělí 8:00 - 16:30 </p>
+    <p>Úterý 8:00 - 16:30 </p>
+    <p>Středa 8:00 - 16:30 </p>
+    <p>Čtvrtek 8:00 - 16:30 </p>
+    <p>Pátek 8:00 - 16:30 </p>
+    <p>Sobota 8:00 - 11:30 </p>
+    <p>kontakt: jchysky@jchysky.cz</p>
+    <p>Telefon: 313 512 530 </p>
+    <P>Majitel: Jan Chysky</p>
+    <P> IČO: 61640069</p>
+    <p> Tel.: 603 519 701 </p>
+    <!-- popisky....-->
+    
+    
+    
+  </body>
+</html>
+
+
